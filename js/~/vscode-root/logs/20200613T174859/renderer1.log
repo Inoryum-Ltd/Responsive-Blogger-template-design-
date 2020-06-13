@@ -1,0 +1,7 @@
+[2020-06-13 17:49:11.364] [renderer1] [error] net::ERR_NAME_RESOLUTION_FAILED: Error: net::ERR_NAME_RESOLUTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2623:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-06-13 17:49:15.380] [renderer1] [error] net::ERR_NAME_RESOLUTION_FAILED: Error: net::ERR_NAME_RESOLUTION_FAILED
+    at SimpleURLLoaderWrapper.<anonymous> (electron/js2c/browser_init.js:2623:21)
+    at SimpleURLLoaderWrapper.emit (events.js:203:13)
+[2020-06-13 17:49:18.087] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 99% of 448.53ms, saved PROFILE here: '/tmp/exthost-8ab91f.cpuprofile' [{"id":"ritwickdey.LiveServer","total":446241,"percentage":99},{"id":"self","total":2193,"percentage":0}]

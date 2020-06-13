@@ -1,0 +1,3 @@
+[2020-06-13 17:49:04.836] [sharedprocess] [info] main {"machineId":"8c92d919620792500e4598ba822a3661eb18424750ae6e303c7180d0aaad0019","windowId":2}
+[2020-06-13 17:49:04.941] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/media/anonymous/programming/web design/The Eleven/Complete Website/Blogger/js/~/vscode-root/User/snippets'
+[2020-06-13 17:49:44.866] [sharedprocess] [info] Starting to clean up unused language packs.
